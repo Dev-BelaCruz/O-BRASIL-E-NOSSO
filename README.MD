@@ -84,6 +84,10 @@ O-BRASIL-E-NOSSO/
 
 └── README.md               # Documentação do projeto
 
+---
+
+## 🧡 Feita com muito carinho por [Isabela Veloso](mailto:ic.veloso2004@gmail.com)
+
 
 
 
