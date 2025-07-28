@@ -1,82 +1,88 @@
 # 🌎 O Brasil é Nosso
 
-“O Brasil é Nosso” é um projeto social e visual que visa dar visibilidade e estrutura a pautas essenciais para um país mais justo, inclusivo e humano.
-É um manifesto em forma de site.
+**“O Brasil é Nosso”** é um projeto social e visual que busca dar visibilidade e estrutura para pautas essenciais na construção de um país mais **justo, inclusivo e humano**.  
+É um **manifesto em forma de site**.
 
-##PROJETO AINDA EM DESENVOLVIMENTO!!!
+> ⚠️ **Projeto em desenvolvimento!**
 
+---
 
 ## ✊ Proposta
 
-O projeto reúne temas urgentes e transformadores, como:
+A proposta é reunir e destacar temas urgentes que exigem transformação social real:
 
-* 📚 Educação inclusiva e acessível
-* 💸 Economia justa e valorização da produção nacional
-* 🌈 Respeito às comunidades LGBTQIAPN+
-* ⚖️ Combate às escalas abusivas de trabalho
-* 🤝 Fortalecimento de comunidades locais e iniciativas coletivas
+- 📚 **Educação** inclusiva e acessível  
+- 💸 **Economia justa** e valorização da produção nacional  
+- 🌈 **Respeito às comunidades LGBTQIAPN+**  
+- ⚖️ **Combate às escalas abusivas de trabalho**  
+- 🤝 **Fortalecimento de comunidades locais** e iniciativas coletivas  
 
+---
 
 ## 🛠️ Tecnologias Utilizadas
 
-As linguagens e ferramentas base utilizadas no desenvolvimento:
+Ferramentas e linguagens que estão dando vida ao projeto:
 
-* *HTML5* – estrutura do site
-* *CSS3* – estilização (modo claro/escuro, layout, responsividade)
-* *JavaScript (JS)* – interações e funcionalidades
-* *Git* – controle de versão
-* *GitHub* – hospedagem e versionamento do código
+- **HTML5** – estrutura da página  
+- **CSS3** – estilos, responsividade e modos claro/escuro  
+- **JavaScript** – interações e funcionalidades  
+- **Git** – controle de versão  
+- **GitHub** – versionamento e futura hospedagem  
 
+---
 
 ## 🧰 Ferramentas de Apoio
 
-Recursos que auxiliaram durante o desenvolvimento:
+Recursos que apoiaram o desenvolvimento:
 
-* *Visual Studio Code* – editor de código
-* *Extensões Git + GitHub* – versionamento e publicação
-* *ChatGPT* – apoio em semântica, boas práticas e dúvidas técnicas
-* *Blackbox AI* – consulta rápida de código e atalhos
-* *Gradiente CSS* – referências para degrade da pagina
+- **Visual Studio Code** – editor principal  
+- **Extensões Git + GitHub** – controle e publicação de código  
+- **ChatGPT** – auxílio em semântica, boas práticas e dúvidas técnicas  
+- **Blackbox AI** – consultas rápidas de código e atalhos  
+- **Gradiente CSS** – referência para degradês da página  
 
+---
 
 ## 🎨 Design
 
-O visual do projeto foi inspirado em elementos nacionais e na força da coletividade:
+O design carrega identidade brasileira e foco na coletividade:
 
-* Tons de Azul no Modo Escuro (tom baseado na bandeira 🇧🇷)
-* Tons de Verde e Amarelo no Modo Claro (tom baseado na bandeira 🇧🇷)
-* Tipografia: Open Sans, escolhida por ser acessível, limpa e legível
-* Alternância entre **dark mode** e **light mode**, com escolha do usuário
+- **Modo escuro:** tons de azul inspirados na bandeira 🇧🇷  
+- **Modo claro:** tons de verde e amarelo 🇧🇷  
+- **Tipografia:** Open Sans — acessível, limpa e legível  
+- **Tema alternável:** o usuário escolhe entre **dark** e **light mode**  
 
-##Formas De Acessar 
+---
 
-- Github - (em breve)
-- Netlify - https://taupe-lily-325aa6.netlify.app/
+## 🔗 Formas de Acesso
 
+- **GitHub:** *em breve*  
+- **Netlify:** [Clique aqui para acessar o site](https://taupe-lily-325aa6.netlify.app/)  
+
+---
 
 ## 🧱 Estrutura do Projeto
 
+```bash
 O-BRASIL-E-NOSSO/
 
-├── index.html              - Página principal do site
+├── index.html              # Página principal
 
-├── css/                    - Estilos do site
+├── css/
+│   ├── base.css            # Estilos base e reset
 
-│   ├── base.css            - Estilos base, reset e gerais
+│   ├── dark-mode.css       # Tema escuro
 
-│   ├── dark-mode.css       - Estilos para o modo escuro
+│   └── light-mode.css      # Tema claro
 
-│   └── light-mode.css      - Estilos para o modo claro
+├── js/
+│   ├── script.js           # Funcionalidades gerais
 
-├── js/                     - Scripts JavaScript
+│   └── toggle-theme.js     # Alternância de temas
 
-│   ├── script.js           - Funcionalidades gerais do site
+├── data/                   # Dados do projeto (vazio por enquanto)
 
-│   └── toggle-theme.js     - Controle do modo claro/escuro
-
-├── data/                   - Dados usados pelo projeto (vazio por enquanto)
-
-└── README.md               - Documentação do projeto
+└── README.md               # Documentação do projeto
 
 
 
