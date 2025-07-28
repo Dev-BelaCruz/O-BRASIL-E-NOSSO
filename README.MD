@@ -3,6 +3,8 @@
 “O Brasil é Nosso” é um projeto social e visual que visa dar visibilidade e estrutura a pautas essenciais para um país mais justo, inclusivo e humano.
 É um manifesto em forma de site.
 
+##PROJETO AINDA EM DESENVOLVIMENTO!!!
+
 
 ## ✊ Proposta
 
@@ -45,6 +47,11 @@ O visual do projeto foi inspirado em elementos nacionais e na força da coletivi
 * Tons de Verde e Amarelo no Modo Claro (tom baseado na bandeira 🇧🇷)
 * Tipografia: Open Sans, escolhida por ser acessível, limpa e legível
 * Alternância entre **dark mode** e **light mode**, com escolha do usuário
+
+##Formas De Acessar 
+
+- Github - (em breve)
+- Netlify - https://taupe-lily-325aa6.netlify.app/
 
 
 ## 🧱 Estrutura do Projeto
