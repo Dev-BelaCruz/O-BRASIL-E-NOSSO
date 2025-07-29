@@ -57,6 +57,10 @@ A estética do projeto é uma homenagem à diversidade e à coletividade brasile
 
 ---
 
+> 🧡 _Em desenvolvimento por [Isabela Veloso](mailto:ic.veloso2004@gmail.com)_
+
+---
+
 ## 🧱 Estrutura do Projeto
 
 ```bash
@@ -72,9 +76,7 @@ O-BRASIL-E-NOSSO/
 ├── data/                   # Dados do projeto (em construção)
 └── README.md               # Documentação
 
----
 
-> 🧡 _Em desenvolvimento por [Isabela Veloso](mailto:ic.veloso2004@gmail.com)_
 
 
 
