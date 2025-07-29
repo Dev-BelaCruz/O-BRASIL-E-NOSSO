@@ -1,63 +1,59 @@
 # 🌎 O Brasil é Nosso
 
-**“O Brasil é Nosso”** é um projeto social e visual que busca dar visibilidade e estrutura para pautas essenciais na construção de um país mais **justo, inclusivo e humano**.  
-É um **manifesto em forma de site**.
+**O Brasil é Nosso** é um projeto social e visual que busca dar voz e estrutura a pautas essenciais para a construção de um país mais **justo, inclusivo e humano**.  
+É um **manifesto transformado em site**.
 
-> ⚠️ **Projeto em desenvolvimento!**
+> ⚠️ Projeto em desenvolvimento
 
 ---
 
-## ✊ Proposta
+## ✊ Propósito
 
-A proposta é reunir e destacar temas urgentes que exigem transformação social real:
+Este projeto nasce da urgência em destacar temas que exigem transformação social real:
 
-- 📚 **Educação** inclusiva e acessível  
-- 💸 **Economia justa** e valorização da produção nacional  
-- 🌈 **Respeito às comunidades LGBTQIAPN+**  
-- ⚖️ **Combate às escalas abusivas de trabalho**  
-- 🤝 **Fortalecimento de comunidades locais** e iniciativas coletivas  
+- 📚 Educação inclusiva e acessível  
+- 💸 Economia justa e valorização da produção nacional  
+- 🌈 Respeito às comunidades LGBTQIAPN+  
+- ⚖️ Combate às escalas abusivas de trabalho  
+- 🤝 Fortalecimento de comunidades locais e iniciativas coletivas  
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-Ferramentas e linguagens que estão dando vida ao projeto:
-
-- **HTML5** – estrutura da página  
-- **CSS3** – estilos, responsividade e modos claro/escuro  
-- **JavaScript** – interações e funcionalidades  
-- **Git** – controle de versão  
-- **GitHub** – versionamento e futura hospedagem  
+- **HTML5** — estrutura semântica da página  
+- **CSS3** — estilização, responsividade e modos claro/escuro  
+- **JavaScript** — interatividade e funcionalidades  
+- **Git** — controle de versão  
+- **GitHub** — versionamento e hospedagem (em breve)  
 
 ---
 
-## 🧰 Ferramentas de Apoio
+## 🔧 Ferramentas de Apoio
 
-Recursos que apoiaram o desenvolvimento:
-
-- **Visual Studio Code** – editor principal  
-- **Extensões Git + GitHub** – controle e publicação de código  
-- **ChatGPT** – auxílio em semântica, boas práticas e dúvidas técnicas  
-- **Blackbox AI** – consultas rápidas de código e atalhos  
-- **Gradiente CSS** – referência para degradês da página  
+- **Visual Studio Code** — ambiente de desenvolvimento  
+- **Extensões Git/GitHub** — integração de versionamento  
+- **ChatGPT** — apoio técnico e semântico  
+- **Blackbox AI** — snippets e pesquisas rápidas  
+- **Gradiente CSS** — referência visual para cores e efeitos  
 
 ---
 
-## 🎨 Design
+## 🎨 Identidade Visual
 
-O design carrega identidade brasileira e foco na coletividade:
+A estética do projeto é uma homenagem à diversidade e à coletividade brasileira:
 
-- **Modo escuro:** tons de azul inspirados na bandeira 🇧🇷  
-- **Modo claro:** tons de verde e amarelo 🇧🇷  
-- **Tipografia:** Open Sans — acessível, limpa e legível  
-- **Tema alternável:** o usuário escolhe entre **dark** e **light mode**  
+- **Modo escuro:** tons de azul e roxo inspirados na bandeira e na resistência  
+- **Modo claro:** tons de verde e amarelo em referência à natureza e esperança  
+- **Tipografia:** *Open Sans*, por ser acessível, limpa e amigável  
+- **Tema alternável:** o usuário escolhe entre **dark** e **light mode**
 
 ---
 
-## 🔗 Formas de Acesso
+## 🔗 Acesso
 
-- **GitHub:** *em breve*  
-- **Netlify:** [Clique aqui para acessar o site](https://taupe-lily-325aa6.netlify.app/)  
+- **Netlify:** [Acesse o site aqui](https://brasilnosso.netlify.app/)  
+- **GitHub:** *em breve*
 
 ---
 
@@ -65,28 +61,21 @@ O design carrega identidade brasileira e foco na coletividade:
 
 ```bash
 O-BRASIL-E-NOSSO/
-
 ├── index.html              # Página principal
-
 ├── css/
-│   ├── base.css            # Estilos base e reset
-
+│   ├── base.css            # Reset e estilos globais
 │   ├── dark-mode.css       # Tema escuro
-
 │   └── light-mode.css      # Tema claro
-
 ├── js/
 │   ├── script.js           # Funcionalidades gerais
-
-│   └── toggle-theme.js     # Alternância de temas
-
-├── data/                   # Dados do projeto (vazio por enquanto)
-
-└── README.md               # Documentação do projeto
+│   └── toggle-theme.js     # Alternância entre os modos
+├── data/                   # Dados do projeto (em construção)
+└── README.md               # Documentação
 
 ---
 
-## 🧡 Feita com muito carinho por [Isabela Veloso](mailto:ic.veloso2004@gmail.com)
+> 🧡 _Em desenvolvimento por [Isabela Veloso](mailto:ic.veloso2004@gmail.com)_
+
 
 
 
